@@ -13,3 +13,9 @@
 ## Env Variables
 - Env: Production
 - Port: 8000
+
+## Monitoring System
+- Dashboard with real time metrics
+- Automatic e-mail alerts
+- Centralized logs
+- Automatic health checks
