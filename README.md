@@ -6,3 +6,6 @@
 3. Execute os testes
 4. Valide a solução
 5. Encerre o ticket
+
+## Instruções de Deploy
+1. Executar script `deploy-v2.sh`
