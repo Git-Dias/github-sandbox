@@ -9,3 +9,7 @@
 
 ## Instruções de Deploy
 1. Executar script `deploy-v2.sh`
+
+## Env Variables
+- Env: Production
+- Port: 8000
