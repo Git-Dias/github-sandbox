@@ -6,3 +6,7 @@
 3. Execute os testes
 4. Valide a solução
 5. Encerre o ticket
+
+## Env Variables
+- Env: Production
+- Port: 8000
