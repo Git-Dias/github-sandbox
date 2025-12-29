@@ -12,8 +12,13 @@ name: Deploy Git Game to Azure
 # 🎯 QUANDO EXECUTAR
 on:
   push:
-    branches: [ main ]  # A cada push na branch main
+## branches: [ main ]  # A cada push na branch main
   workflow_dispatch:     # Ou manualmente via interface do GitHub
+    inputs:
+      confirm:
+        description: 'Digite "APPLY" para confirmar'
+        required: true
+        default: ''
 
 # 🌍 VARIÁVEIS GLOBAIS
 env:
