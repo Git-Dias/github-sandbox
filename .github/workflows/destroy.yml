@@ -1,7 +1,7 @@
 # 🗑️ PIPELINE DE LIMPEZA - Terraform Destroy
 # Este arquivo remove todos os recursos usando Terraform
 
-name: 🗑️ Destroy Git Game Infrastructure
+name: Destroy Git Game Infrastructure
 
 # 🎯 QUANDO EXECUTAR
 on:
